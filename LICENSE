@@ -1,0 +1,18 @@
+Copyright (c) 2025 Abhinav Choudhary
+
+This repository contains research code and results associated with the publication:
+"Analysis of Hydrochemical Variability in Southcentral Alaska Using Clustering Techniques and GIS"
+
+License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format with proper attribution.
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the author.
+- NonCommercial — You may not use the material for commercial purposes.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+Dataset:
+The hydrochemical dataset is sourced from HydroShare and is licensed separately under CC BY 4.0.
+See: https://doi.org/10.4211/hs.68cfd9f523794370bf1b750d48f05a90
