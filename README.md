@@ -44,6 +44,9 @@ alaska-hydrochem-clustering/
 │
 │── results/
 │   ├── figures/              # Cluster plots, kriging maps
+│   │   ├── K-Means_Result.png
+│   │   ├── DBSCAN_Result.png
+│   │   └── Spatial_Interpolation_Results.png
 │   └── interactive_map.html  # Exported Folium interactive map
 │
 │── README.md                 # Project documentation
