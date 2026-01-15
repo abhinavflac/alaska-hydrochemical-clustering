@@ -56,7 +56,7 @@ alaska-hydrochem-clustering/
 ## 🚀 Usage
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/alaska-hydrochem-clustering.git
+git clone https://github.com/abhinavflac/alaska-hydrochem-clustering.git
 cd alaska-hydrochem-clustering
 ```
 ### 2. Install dependencies
@@ -112,3 +112,4 @@ You may not use it commercially.
 **Citation:**  
 Coombs & Carling (2025). Water chemistry from Southcentral Alaska glacial watersheds. HydroShare.  
 DOI: 10.4211/hs.68cfd9f523794370bf1b750d48f05a90
+
